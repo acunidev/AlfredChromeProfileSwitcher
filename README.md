@@ -18,5 +18,3 @@ Make sure to update the script if you have different profile names or paths.
 ---
 
 **Note**: Ensure you have the appropriate Chrome profiles set up on your system, and adjust the script if your profile names or paths differ.
-
-Feel free to customize this README.md to include additional instructions or information about your workflow.
